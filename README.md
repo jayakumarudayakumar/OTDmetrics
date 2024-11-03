@@ -11,10 +11,10 @@ Dataset Structure
 3. Categorical 5, Numerical 7​
 4. Response Variable – Y/N​
 
-## Objective
+Objective
 Our motive has been to analyze this dataset, which entails customers’ journeys, and build a predictive model to make better predictions of “Reached On-time (Y/N)” under consideration of a few significant predictive features
 
-## Data Pre-processing
+Data Pre-processing
 Loading Dataset -> Feature Categorization -> Feature Engineering -> One-hot Encoding -> Splitting Dataset -> Hyperparameter Tuning
 
 ## EDA Observations
