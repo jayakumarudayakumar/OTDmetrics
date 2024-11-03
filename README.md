@@ -13,8 +13,7 @@ Dataset Structure
 
 Objective - Our motive has been to analyze this dataset, which entails customers’ journeys, and build a predictive model to make better predictions of “Reached On-time (Y/N)” under consideration of a few significant predictive features
 
-Data Pre-processing: 
-Loading Dataset -> Feature Categorization -> Feature Engineering -> One-hot Encoding -> Splitting Dataset -> Hyperparameter Tuning
+Data Pre-processing - Loading Dataset -> Feature Categorization -> Feature Engineering -> One-hot Encoding -> Splitting Dataset -> Hyperparameter Tuning
 
 ## EDA Observations
 Our EDA aimed to uncover underlying patterns and relationships within the dataset. Key observations included the distribution of customer care calls, which mostly ranged between 2 and 5, and the evenly distributed customer ratings from 1 to 5. The analysis also revealed a balanced distribution between on-time and delayed deliveries, setting a solid foundation for further investigative modeling
