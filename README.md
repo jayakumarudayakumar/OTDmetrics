@@ -1,8 +1,8 @@
 ## OTD Metrics
 
-#### On-time Delivery (OTD) Predictive Modeling, Project Owner, Northeastern University Mar 2024
-#### Software: Jupyter Notebook, Python, Streamlit app | Observations: 10K | f1-score: 0.69 | Accuracy: 68% | AUC: 0.75
-#### Project Scope – Trained CatBoost model linked to Streamlit application to input “key variables” to predict “delivery time” for OTD metrics
+On-time Delivery (OTD) Predictive Modeling, Project Owner, Northeastern University Mar 2024
+Software: Jupyter Notebook, Python, Streamlit app | Observations: 10K | f1-score: 0.69 | Accuracy: 68% | AUC: 0.75
+Project Scope – Trained CatBoost model linked to Streamlit application to input “key variables” to predict “delivery time” for OTD metrics
 
 ### Project Background
 Dataset Structure
